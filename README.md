@@ -1,53 +1,55 @@
-# 🎮 Creative agency: A simple webpage in HTML5, CSS3, SCSS using RWD, Flexbox, and Media Queries.
-
-## 🙋🏼‍♀️ **Live demo:**
-[https://ollawilk.github.io/creative-agency-rwd-business-card/](https://ollawilk.github.io/creative-agency-rwd-business-card/)
-
-## Screenshots
-![Example screenshot](./images/capture.gif)
+# 🎨 Creative Agency: A Modern Responsive Webpage
 
 
-*Images used in project are from rawpixel.com 
+[![Click here to view the live site](./images/capture.gif)](https://ollawilk.github.io/creative-agency-rwd-business-card/)
+###### Images used in project are from rawpixel.com 
+
+**[Click here to view the live site](https://ollawilk.github.io/creative-agency-rwd-business-card/)**
+
+
 
 ## 🚀 Technologies
 ![HTML5]( https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 ![SCSS]( https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 ![JavaScript (ES6+)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Flexbox for responsive layouts
+## ⭐ Key Features:
 
-Media Queries for device-specific adjustments
+**1. Responsive Design:** 
 
-## ⭐ Project Overview
+* **Mobile-Friendly:** The site adapts seamlessly to various screen sizes, ensuring an optimal user experience on both desktop and mobile devices.
 
-The site is structured into several key sections, each designed with specific goals in mind:
+* **Flexbox Layout:** Utilizes Flexbox for a flexible and efficient layout structure that enhances both aesthetics and functionality.
 
-🍓 Navigation: Utilizes a multi-level menu to offer easy access to different site sections. Crafted with HTML5 semantic tags and CSS for a smooth, intuitive user interface.
+* **Media Queries:** Ensures the design adjusts smoothly to different devices, providing a consistent user experience across all screen sizes.
 
-🍓 Splash Section: Features a captivating header with a title, subtitle, and animated button, centered both vertically and horizontally against a vibrant background. This section sets the tone for the creative prowess of the agency.
+**2. Engaging User Interface:**
 
-🍓 Our Services: Demonstrates the agency's offerings through a flexbox layout, ensuring information is presented cleanly and is easily navigable.
+* **Interactive Navigation:** Features a multi-level menu for easy access to different sections of the site, crafted with HTML5 and CSS for a smooth user experience.
+* **Animated Splash Section:** Includes a captivating header with a title, subtitle, and an animated button, setting the creative tone of the agency.
+* **Our Services and Portfolio:** Showcases the agency’s offerings and past projects in a clean, navigable format using a Flexbox layout.
 
-🍓 Our Work: Showcases past projects or portfolios with an emphasis on visual appeal, utilizing images and brief descriptions for each featured work.
+**3. Modern Web Technologies:**
 
-🍓 Contact Form: Encourages visitors to reach out, implemented with HTML form elements and styled for clarity and ease of use.
+* **SCSS Styling:** Leverages SCSS for more organized and maintainable styling, utilizing variables and mixins for easy theme customization.
+* **Semantic HTML5:** Uses semantic elements for improved accessibility and SEO, ensuring meaningful content structure.
 
-🍓 Footer: Links to social media profiles, reinforcing the agency's online presence.
+**4. Interactive Elements:**
 
+* **Animations:** Incorporates subtle animations to enhance user engagement, including an animated button and smooth transitions.
+* **Contact Form:** Features a well-styled and functional contact form that encourages visitors to reach out.
 
-## ✨ Key Features
-
-1. Responsive Design: The site adapts seamlessly to different screen sizes, from desktops to mobile phones, ensuring an optimal user experience regardless of device.
-2. Flexbox Layout: Employs modern CSS techniques for a flexible, efficient layout structure that enhances both aesthetics and function.
-3. Animation: Includes subtle animations, such as an animated button, to engage users and enrich the site's interactivity.
-4. Semantic HTML5: Utilizes semantic elements for improved accessibility and SEO, making the content meaningful for both users and search engines.
-5. SCSS: Leverages SCSS for more organized, maintainable styling. Variables and mixins simplify theme customization and styling.
-
-## 🍰 Installation and Launch
-
-The website does not require installation. All is live.
 
 ## 🤓 Summary 
-I learned advanced CSS selectors, which helped me better understand how to effectively select elements for styling. I also expanded my knowledge on modern methods of creating website layouts. I learned how to create responsive websites and can now add CSS animations.
+While working on the "Creative Agency" project, I gained many new skills and deepened my knowledge in front-end development. Specifically, I learned:
+
+* **Using the Inspector:** I understood how to effectively use the browser's Inspector tool to debug HTML and CSS code and test changes "on the fly."
+* **Advanced CSS Selectors:** I learned about various types of selectors, including nested selectors and descendant selectors, which allow for more precise styling of elements on the page.
+* **Block and Inline Elements:** I learned the difference between block and inline elements and how to change their display using the display property.
+* **Flexbox:** I applied the knowledge of Flexbox to create modern and responsive layouts that adapt to different screen resolutions.
+* **CSS Animations:** I learned how to create simple animations and hover effects using CSS, which enhance the interactivity of the site.
+* **Media Queries:** I mastered creating responsive layouts using Media Queries, which allow for adjusting the appearance of the site for different devices.
+* **Creating Responsive Websites:** I learned the principles of Responsive Web Design (RWD) and how to adjust layouts and elements of a website to different screen resolutions, both for mobile devices and desktops.
+* **Managing Layouts with SCSS:** Thanks to SCSS, I learned how to organize styles in a more structured way, using nested selectors and variables, which greatly facilitates managing styles in larger projects.
+
+Working on this project was a great way to practically apply knowledge of HTML, CSS, SCSS, and Flexbox, which significantly expanded my front-end development skills.
