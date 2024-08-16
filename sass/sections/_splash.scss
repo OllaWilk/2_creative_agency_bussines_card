@@ -1,7 +1,6 @@
 .splash {
   background-color: $color-twoo;
   color: $color-light;
-  min-width: 500px;
   display: flex;
   min-height: 500px;
 
@@ -27,6 +26,88 @@
       margin: 24px 0;
       font-weight: 400px;
       font-size: 16px;
+    }
+  }
+
+  @media (max-width: 1200px) {
+    .splash_inner {
+      max-width: 80%;
+
+      .page_title {
+        font-size: 64px;
+        word-spacing: -20px;
+
+        span {
+          font-size: 80px;
+        }
+      }
+
+      .page_subtitle {
+        font-size: 14px;
+      }
+    }
+  }
+
+  @media (max-width: 992px) {
+    min-height: 400px;
+
+    .splash_inner {
+      max-width: 90%;
+
+      .page_title {
+        font-size: 56px;
+        word-spacing: -16px;
+
+        span {
+          font-size: 72px;
+        }
+      }
+
+      .page_subtitle {
+        font-size: 14px;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    text-align: center;
+    min-height: 350px;
+
+    .splash_inner {
+      max-width: 95%;
+
+      .page_title {
+        font-size: 48px;
+        word-spacing: -12px;
+
+        span {
+          font-size: 60px;
+        }
+      }
+
+      .page_subtitle {
+        font-size: 12px;
+      }
+    }
+  }
+
+  @media (max-width: 576px) {
+    min-height: 300px;
+
+    .splash_inner {
+      .page_title {
+        font-size: 30px;
+        word-spacing: -8px;
+
+        span {
+          font-size: 40px;
+        }
+      }
+
+      .page_subtitle {
+        font-size: 12px;
+      }
     }
   }
 }
